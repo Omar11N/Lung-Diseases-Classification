@@ -1,6 +1,6 @@
 # CNN-based Chest X-ray Image Classification
 
-This repository contains a deep learning project that classifies chest X-ray images into four categories: **Normal**, **Covid**, **Pneumonia**, and **Lung Opacity**. The project showcases several advanced techniques in image preprocessing, convolutional neural network (CNN) design, and model regularization—demonstrating a strong grasp of computer vision and deep learning fundamentals.
+This repository contains a deep learning project that classifies chest X-ray images into four categories: **Normal**, **Covid**, **Pneumonia**, and **Lung Opacity**. The project showcases several advanced techniques in image preprocessing, convolutional neural network (CNN) design, and model regularization—demonstrating a strong grasp of computer vision and deep learning fundamentals. This Project won the first place achieving 98,5 acc on the classifing wether a Lung has Corona-Virus or not. 
 
 ## Project Overview
 
